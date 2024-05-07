@@ -1,4 +1,4 @@
-# UniPen: University Organ Publishing  Mobile App & Web Admin Panel 
+# UniPen: University Organ/Journal Platform
 
 This project consists of a mobile app for article viewing and a web admin panel for managing content for a university organ. It uses the MERN (MongoDB, Express.js, React.js, Node.js) stack along with cloudinary, multer, genymotion, and expo. Here's a glimpse of its key features:
 

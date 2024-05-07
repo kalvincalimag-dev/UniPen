@@ -47,7 +47,7 @@ Follow these simple steps to set up UniPen on your local machine:
 ## Visual Overview 
 
 - **Admin Panel - Dashboard**:
-![Admin Side - Home](https://github.com/kalvincalimag-dev/testrepo/assets/121149046/55617d48-95ff-4a56-b847-9561ee03132b)
+![Admin Side - Home](https://github.com/kalvincalimag-dev/UniPen/assets/121149046/b23909c7-ee4a-4912-94f6-672541241ba2)
 
 - **Admin Panel - Create/Edit Article**:
 ![Admin Side - Edit Article](https://github.com/kalvincalimag-dev/testrepo/assets/121149046/f09e3964-dfe7-4f93-a0a8-7303f2d6213f)

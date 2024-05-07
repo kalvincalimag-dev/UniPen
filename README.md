@@ -44,6 +44,16 @@ Follow these simple steps to set up UniPen on your local machine:
     - Download Expo from Google Play and scan the QR Code.
     - If Genymotion is downloaded and set up for VSCode, simply press 'a'.
 
+## Visual Overview 
+
+- **Admin Panel - Dashboard**:
+![Admin Side - Home](https://github.com/kalvincalimag-dev/testrepo/assets/121149046/55617d48-95ff-4a56-b847-9561ee03132b)
+
+- **Admin Panel - Create/Edit Article**:
+![Admin Side - Edit Article](https://github.com/kalvincalimag-dev/testrepo/assets/121149046/f09e3964-dfe7-4f93-a0a8-7303f2d6213f)
+
+- **Mobile User**:
+![Mobile Collage](https://github.com/kalvincalimag-dev/testrepo/assets/121149046/4fb97b35-2379-476d-b75a-d7dcf7497a1c)
 
 ## Technology Stack 
 
@@ -60,6 +70,3 @@ UniPen utilizes the following technologies to deliver the functionalities:
 ## License
 
 This project is licensed under the GNU General Public License - see the LICENSE file for details.
-
-
-
